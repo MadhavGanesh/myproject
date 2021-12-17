@@ -1,0 +1,33 @@
+
+		.div1{
+			background-color:red;
+			padding:0px 20px 0px 20px;
+			position:fixed;
+			width: 50%;
+		}
+		
+		.div2{
+			background-color:Blue;
+			position:absolute;
+			width: 100%;
+
+		}
+		
+		.div3{
+		
+			background-color:green;
+			position:realtive;
+			
+			
+		}
+		
+		.div4{
+			background-color:black;
+			position:sticky;
+			top:50vh;
+			
+		}
+		
+		body{height:300vh;}
+		div{height:10vh;color:white;}
+		
